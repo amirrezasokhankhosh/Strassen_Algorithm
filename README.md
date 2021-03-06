@@ -2,7 +2,6 @@
 
 The Strassen algorithm is an algorithm for matrix multiplication. It is faster than the
 standard matrix multiplication algorithm and is useful in practice for large matrices.
-Research and study about this algorithm and try to code it.
 
 Write your inputs in input.txt file
 ```
